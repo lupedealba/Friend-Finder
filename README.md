@@ -1,21 +1,11 @@
 # Friend-Finder
 
 **What is it:**
-Homework #12:
-In this activity, I created an Amazon-like storefront with the MySQL. The app takes in orders from customers and depletes stock from the store's inventory. So after launching node.js The app will list the items available for purchase. Once the customer chooses what item to purchase it will ask what quantity do the want to buy. If the customer wants to buy more then what is in stock, the app wil notify them to choose something else to buy or to buy less. After the purchase is done, the app will list the total amount payed and the new stock quantity for that item. Below is a video of how the app works. The screenshot shows the result after the item is purchased.
-
-**Video:**
-
-https://drive.google.com/open?id=10dsCtWR-gTJ815EaSTK21yDOvcPtBqTW
+Homework #13:
+In this activity, I build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site takes in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
 
 
-**Screenshot:**
-![Item Purchase](/images/screenshot.png)
-Format: ![Alt Text](url)
-
-
-so far 
 
 
 
