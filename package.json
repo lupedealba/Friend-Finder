@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "**What is it:**\r Homework #12:\r In this activity, I created an Amazon-like storefront with the MySQL. The app takes in orders from customers and depletes stock from the store's inventory. So after launching node.js The app will list the items available for purchase. Once the customer chooses what item to purchase it will ask what quantity do the want to buy. If the customer wants to buy more then what is in stock, the app wil notify them to choose something else to buy or to buy less. After the purchase is done, the app will list the total amount payed and the new stock quantity for that item. Below is a video of how the app works. The screenshot shows the result after the item is purchased.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "node": "^11.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupedealba/Friend-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupedealba/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/lupedealba/Friend-Finder#readme"
+}
